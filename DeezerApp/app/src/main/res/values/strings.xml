@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test_RecycleView</string>
+
+    <string-array name="Programming_languages">
+        <item>jedan</item>
+        <item>dva</item>
+        <item>tri</item>
+        <item>četiri</item>
+        <item>pet</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+        <item>This is random description</item>
+
+    </string-array>
+</resources>

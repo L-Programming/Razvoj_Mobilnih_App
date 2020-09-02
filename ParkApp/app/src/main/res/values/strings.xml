@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ParkApp</string>
+    <string name="labelaNaziv_stroja">Naziv_stroja</string>
+    <string name="labelaNazad">Nazad</string>
+    <string name="labelaSlika">Slika</string>
+    <string name="labelaNovi">Kreiraj novi stroj</string>
+    <string name="labelaPromjeni">Promjeni stroj</string>
+    <string name="labelaObrisi">Obriši stroj</string>
+    <string name="labelaUslikaj">Uslikaj</string>
+</resources>
+
+
